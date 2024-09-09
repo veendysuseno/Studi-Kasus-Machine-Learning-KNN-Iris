@@ -8,10 +8,10 @@ Proyek ini membahas penerapan machine learning dengan pendekatan _supervised lea
 
 - **KNN bekerja dengan mengklasifikasikan data baru berdasarkan tetangga terdekat di dataset (data training)**.
 - **Proses kerja KNN**:
-  1. Simpan semua data training.
-  2. Hitung jarak antara data baru dengan semua data dalam set training.
-  3. Pilih k tetangga terdekat.
-  4. Klasifikasi dilakukan berdasarkan mayoritas kelas tetangga terdekat (untuk klasifikasi) atau rata-rata nilai tetangga (untuk regresi).
+  1. **Simpan semua data training.**
+  2. **Hitung jarak antara data baru dengan semua data dalam set training.**
+  3. **Pilih k tetangga terdekat.**
+  4. **Klasifikasi dilakukan berdasarkan mayoritas kelas tetangga terdekat (untuk klasifikasi) atau rata-rata nilai tetangga (untuk regresi).**
 
 ## Pemilihan Nilai k
 
